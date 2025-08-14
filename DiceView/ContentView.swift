@@ -4,7 +4,7 @@
 //
 //  Created by Macpro M2    on 2025/07/15.
 //
-
+/*Tôi sẽ test cái cmd ở đây, up to github v1sss */
 import SwiftUI
 
 struct ContentView: View {
